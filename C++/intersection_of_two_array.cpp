@@ -2,6 +2,7 @@
 using namespace std;
 class Solution
 {
+public:
 vector<int> intersection_of_two_array(vector<int>& nums1, vector<int>& nums2)
 {
 int n = nums1.size();
